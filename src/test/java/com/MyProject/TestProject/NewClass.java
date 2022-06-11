@@ -8,7 +8,7 @@ public class NewClass {
 	
 		int y = 15;
 		int m = 20;
-		
+		// this is a sys out
 		System.out.println(m+y);
 
 	}
