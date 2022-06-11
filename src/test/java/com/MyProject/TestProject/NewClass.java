@@ -8,6 +8,8 @@ public class NewClass {
 	
 		int y = 15;
 		int m = 20;
+		
+		System.out.println(m+y);
 
 	}
 
