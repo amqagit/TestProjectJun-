@@ -6,7 +6,7 @@ public class NewClass {
 
 
 	
-		int y = 15;
+		intt y = 15
 		int m = 20;
 		// this is a sys out
 		SSystem.out.println(m+y);
